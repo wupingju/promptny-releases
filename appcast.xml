@@ -6,13 +6,13 @@
     <description>Promptny app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.1.12</title>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <title>Version 0.2.0</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 17 Dec 2025 04:49:24 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.1.12/Promptny-0.1.12.dmg" sparkle:version="15" sparkle:shortVersionString="0.1.12" length="6737906" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.1.12</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <pubDate>Wed, 17 Dec 2025 05:20:26 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.2.0/Promptny-0.2.0.dmg" sparkle:version="16" sparkle:shortVersionString="0.2.0" length="6737851" type="application/octet-stream" />
+      <description><![CDATA[<h2>Version 0.2.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
