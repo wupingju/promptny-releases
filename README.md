@@ -2,4 +2,4 @@
 
 ## Changelog
 
-See the [changelogs](./changelogs/) folder for detailed release notes.
+See the [changelog](./changelog.md/) for detailed release notes.
