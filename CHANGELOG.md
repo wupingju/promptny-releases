@@ -4,6 +4,14 @@ All notable changes to Promptny will be documented in this file.
 
 ---
 
+## [0.3.0] - 2025-12-18
+
+- Support the "Translate mode".
+- Redesign the prompts and significantly improved the performance of the Optimize mode.
+- Resdesign the Settings menu.
+
+---
+
 ## [0.2.4] - 2025-12-18
 
 - You can hide the dock icon in the Settings menu and show it again from the menu bar.
