@@ -6,13 +6,13 @@
     <description>Promptny app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.0</title>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <title>Version 0.3.1</title>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 18 Dec 2025 13:16:03 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.3.0/Promptny-0.3.0.dmg" sparkle:version="21" sparkle:shortVersionString="0.3.0" length="6914948" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.3.0</h2><ul><li>Support the "Translate mode".</li><li>Redesign the prompts and significantly improved the performance of the Optimize mode.</li><li>Resdesign the Settings menu.</li></ul>]]></description>
+      <pubDate>Wed, 24 Dec 2025 15:08:12 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.3.1/Promptny-0.3.1.dmg" sparkle:version="22" sparkle:shortVersionString="0.3.1" length="6960354" type="application/octet-stream" />
+      <description><![CDATA[<h2>Version 0.3.1</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
