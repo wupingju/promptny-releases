@@ -2,6 +2,15 @@
 
 All notable changes to Promptny will be documented in this file.
 
+--- 
+
+## [0.4.0] - 2025.12.25
+
+- Support "Selection toolbar". Now you can easily trigger Optimizing and Translating functions without using keyboard shortcuts.
+- Now you can resize and move the Translation result window.
+- Slightly increase the size and font size of the Translation result window.
+
+
 ---
 
 ## [0.3.1] - 2025.12.24

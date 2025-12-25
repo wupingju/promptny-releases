@@ -12,7 +12,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <pubDate>Thu, 25 Dec 2025 02:35:32 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.4.0/Promptny-0.4.0.dmg" sparkle:version="23" sparkle:shortVersionString="0.4.0" length="7019418" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.4.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[<h2>Version 0.4.0</h2><ul><li>Support "Selection toolbar". Now you can easily trigger Optimizing and Translating functions without using keyboard shortcuts.</li><li>Now you can resize and move the Translation result window.</li><li>Slightly increase the size and font size of the Translation result window.</li></ul>]]></description>
     </item>
   </channel>
 </rss>
