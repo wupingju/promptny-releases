@@ -6,13 +6,13 @@
     <description>Promptny app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.3.1</title>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <title>Version 0.4.0</title>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 24 Dec 2025 15:08:12 +0000</pubDate>
-      <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.3.1/Promptny-0.3.1.dmg" sparkle:version="22" sparkle:shortVersionString="0.3.1" length="6960354" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.3.1</h2><ul><li>Support the "Translate mode".</li><li>Redesign the prompts and significantly improved the performance of the Optimize mode.</li><li>Resdesign the Settings menu.</li><li>Change the default shortcut for the Translate function from Cmd + ` to Option + 1 to avoid conflicts with other major apps.</li><li>Support using Cmd + Q to quit the app and Cmd + W to close the settings menu.</li><li>Fix an issue where the login session was not saved correctly. Now you can use the app properly without needing to log in again.</li><li>Fix an issue where the result window has a weird shadow.</li><li>Fix an issue where the remaining usage quota doesn't refresh after optimizing or translating.</li></ul>]]></description>
+      <pubDate>Thu, 25 Dec 2025 02:35:32 +0000</pubDate>
+      <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.4.0/Promptny-0.4.0.dmg" sparkle:version="23" sparkle:shortVersionString="0.4.0" length="7019418" type="application/octet-stream" />
+      <description><![CDATA[<h2>Version 0.4.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
     </item>
   </channel>
 </rss>
