@@ -2,6 +2,13 @@
 
 All notable changes to Promptny will be documented in this file.
 
+---
+
+## [0.4.1] - 2025.12.27
+
+- Improve the overall experience of the selection toolbar.
+
+
 --- 
 
 ## [0.4.0] - 2025.12.25
