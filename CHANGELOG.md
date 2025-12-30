@@ -2,6 +2,15 @@
 
 All notable changes to Promptny will be documented in this file.
 
+--- 
+
+## [0.5.1] - 2025.12.30
+
+- Introduce a new structure that lets you choose different presentation modes for tools, with options for auto-replace and show results.
+- Introduce a new tool: Improve writing. It can help you refine your sentences into better English.
+- You can now enable and disable certain tools in the settings menu.
+
+
 ---
 
 ## [0.4.1] - 2025.12.27

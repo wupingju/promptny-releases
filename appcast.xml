@@ -12,7 +12,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 30 Dec 2025 05:47:25 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.5.1/Promptny-0.5.1.dmg" sparkle:version="26" sparkle:shortVersionString="0.5.1" length="7101652" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.5.1</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[<h2>Version 0.5.1</h2><ul><li>Introduce a new structure that lets you choose different presentation modes for tools, with options for auto-replace and show results.</li><li>Introduce a new tool: Improve writing. It can help you refine your sentences into better English.</li><li>You can now enable and disable certain tools in the settings menu.</li></ul>]]></description>
     </item>
   </channel>
 </rss>
