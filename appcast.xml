@@ -12,7 +12,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 30 Dec 2025 22:41:05 +0000</pubDate>
       <enclosure url="https://github.com/wupingju/promptny-releases/releases/download/v0.5.2/Promptny-0.5.2.dmg" sparkle:version="27" sparkle:shortVersionString="0.5.2" length="7123881" type="application/octet-stream" />
-      <description><![CDATA[<h2>Version 0.5.2</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+      <description><![CDATA[<h2>Version 0.5.2</h2><ul><li>Fix an issue where the Improve writing tool couldn't set a custom shortcut correctly.</li></ul>]]></description>
     </item>
   </channel>
 </rss>

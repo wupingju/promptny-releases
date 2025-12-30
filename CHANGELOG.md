@@ -2,6 +2,12 @@
 
 All notable changes to Promptny will be documented in this file.
 
+---
+
+## [0.5.2] - 2025.12.31
+
+- Fix an issue where the Improve writing tool couldn't set a custom shortcut correctly.
+
 --- 
 
 ## [0.5.1] - 2025.12.30
